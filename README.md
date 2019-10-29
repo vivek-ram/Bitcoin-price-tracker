@@ -12,7 +12,7 @@ Latest version of Xcode
 
 2)Alamofire
 
-![](animated.gif)
+![](animated.GIF)
 
 
 
