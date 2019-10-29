@@ -12,7 +12,6 @@ Latest version of Xcode
 
 2)Alamofire
 
-###APP overview
-                                         ![](animated.GIF)
-
-
+### APP overview
+                                         
+![](animated.GIF)
